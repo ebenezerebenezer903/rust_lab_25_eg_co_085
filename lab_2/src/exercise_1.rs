@@ -5,7 +5,7 @@ pub fn main() {
     let description = if number % 2 == 0 { "even" } else { "odd" };
 
     println!("{} is {}", number, description);
-    let number: i32 = 085;
+    let number: i32 = 85;
 
     let description = if number % 2 == 0 { "even" } else { "odd" };
 
